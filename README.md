@@ -1,1 +1,1 @@
-# Cards
+# React JS "Offer Cards"
